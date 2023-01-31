@@ -9,5 +9,6 @@ Initialize environment and build
 
 ```
 west init -l rpi-pico-hello/
+west update
 west build --pristine -b rpi_pico rpi-pico-hello/app
 ```
