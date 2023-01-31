@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker run -ti -v $PWD:/workdir \
+           ghcr.io/zephyrproject-rtos/zephyr-build:latest

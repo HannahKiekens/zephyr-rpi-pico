@@ -1,0 +1,9 @@
+# Managed by west
+.west/
+bootloader/
+modules/
+tools/
+zephyr/
+
+# Build artifacts
+build/
