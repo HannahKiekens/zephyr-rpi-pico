@@ -1,4 +1,4 @@
-
+Based on [zephyr example](https://github.com/zephyrproject-rtos/example-application)  
 Start development environment with:
 
 ```
